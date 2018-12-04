@@ -1,0 +1,49 @@
+body { 
+		background-color:#ccffff;
+		margin:0 15%;
+		font-family:sans-serif;
+     }
+	 
+h1   { 
+		text-align: center;
+		font-family: 'Black Han Sans', sans-serif;
+		font-weight: normal;
+		text-transform: uppercase;
+		border-bottom: 1px solid #3366cc;
+		margin-top: 30px;
+	  }
+
+h2    { 
+		color: #3366cc;
+		font-size: 1em;
+	  }
+
+section {
+		border-top: 3px solid #3366cc;
+		font-weight: bold;
+}
+
+nav li {
+		color: #336699;
+}
+	  
+p.intro::first-letter {
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 150%;
+}
+	  
+#restaurant { 
+    text-transform: uppercase;
+}
+	
+a:visited {
+    color: #000099;
+}
+
+a:hover {
+    color: #66ffcc;
+}
+
+img {
+	border: 5px solid;
+}
